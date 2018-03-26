@@ -22,10 +22,12 @@ def third_challenge
    :capulet => {
       :patriarch => {
         :name => "Lord Capulet"
-        :age 
+        :age => "50"
         #your key/value pairs here
         },
       :matriarch => {
+        :name => "Lady Capulet"
+        :age => "51"
         #your key/value pairs here
         },
       :heroine => {
